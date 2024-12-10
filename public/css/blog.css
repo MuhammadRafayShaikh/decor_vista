@@ -1,0 +1,96 @@
+/*
+Template Name: Flooring
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+
+/*********************blog****************/
+.tags  li a {
+font-size: 15px;
+padding: 9px 15px 9px 15px;
+background: #fff;
+margin: 0px 5px 10px 0px;
+color: #333;
+display:block;
+}
+.tags  li a:hover {
+background:#b6702a!important;
+color:#fff;
+}
+.tags1 a{
+background: #f4f4f4!important; 
+ }
+/*********************blog_end****************/
+
+@media screen and (max-width : 767px){
+.blog_1l1ir{
+margin-top:15px; 
+ }
+.blog_1r{
+margin-top:15px;  
+ }
+.blog1r1 h4{
+text-align:center; 
+ }
+.blog_pgdt1i img{
+width:100%;
+float:none!important;
+margin-bottom:15px;
+margin-right:0!important; 
+ }
+.blog_pgdt1i1l{
+text-align:center; 
+ }
+.blog_pgdt1i1r{
+text-align:center!important;
+margin-top:15px; 
+ }
+.blog_pgdt3il{
+margin-top:10px; 
+ }
+.contact_1i{
+padding:15px!important;
+margin-top:8px;
+margin-bottom:8px; 
+ }
+.work_h1 p{
+text-align:left; 
+ }
+.work_h1 br{
+display:none; 
+ }
+.contact_4i{
+width:100%!important; 
+ }
+.contact_4il{
+margin-top:10px; 
+ }
+ }
+
+
+@media (min-width:576px) and (max-width:767px) {
+
+ }
+ 
+@media (min-width:768px) and (max-width:991px) {
+.contact_1i {
+padding:20px 10px!important; 
+min-height:200px;
+ }
+
+ }
+
+@media (min-width:992px) and (max-width:1200px) {
+.contact_1i {
+padding:20px 10px!important; 
+min-height:200px;
+ }
+ }
+@media (min-width:1201px) and (max-width:1310px) {
+
+ }
+
+
+

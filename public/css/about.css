@@ -1,0 +1,149 @@
+/*
+Template Name: Flooring
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+
+/*********************about***************/
+.feature_3r .progress-bar {
+background: #F9F9F9;
+border-radius: 0;
+}
+.feature_3r .progress {
+background-color: #b6702a;
+height: 6px;
+overflow: hidden;
+border-radius: 0;
+}
+
+.team_1im1i1{
+background:#000000c4;
+padding-top:60%;
+display:none;
+ }
+.team_1im1i2 ul li a{
+background: #fff;
+border-radius:0;
+ }
+.team_1im1i2 ul li a i{
+color:#b6702a;
+ }
+.team_1im1i2 {
+display:none;
+background:#000000c4;
+ }
+.team_1im:hover .team_1im1i2{
+display:block; 
+ }
+.team_1im:hover .team_1im1i1{
+display:block; 
+ }
+.testim_1i1 img{
+width:100px;
+height:100px; 
+ }
+/*********************about_end****************/
+
+@media screen and (max-width : 767px){
+.feature_3rir{
+margin-top:15px; 
+ }
+.feature_3rir h4{
+text-align:center;
+ }
+.feature_3ril{
+text-align:center;
+ }
+.feature_3l{
+margin-top:15px;  
+ }
+.proj_h1l{
+text-align:center; 
+ }
+.proj_h1r{
+text-align:center!important; 
+ }
+.team_1im{
+margin-top:8px;
+margin-bottom:8px; 
+ }
+.work_2r{
+text-align:center; 
+margin-top:15px;
+ }
+.work_2r ul{
+text-align:left;
+ }
+.about_pgir {
+margin-top:15px;  
+ }
+.testim_1i {
+margin-top:8px;
+margin-bottom:8px; 
+ }
+.pricing_1i{
+margin-top:8px;
+margin-bottom:8px; 
+ }
+ }
+
+
+@media (min-width:576px) and (max-width:767px) {
+.feature_3rir h4{
+text-align:left;
+ }
+.feature_3rir{
+margin-top:0; 
+ }
+ }
+ 
+@media (min-width:768px) and (max-width:991px) {
+.feature_3ril span{
+font-size:18px!important; 
+ }
+.feature_3rir p{
+font-size:14px; 
+ }
+.team_1im1i2 ul li a {
+width:30px;
+height:30px;
+font-size:14px;
+}
+.team_1im1i2 ul li a i{
+line-height:30px;
+}
+.team_1im2  h6{
+font-size:13px; 
+ }
+.team_1im2  h5{
+font-size:15px; 
+ }
+.testim_1i2  span{
+padding:10px!important;
+font-size:18px!important; 
+ }
+.pricing_1i  h5{
+font-size:16px; 
+ }
+.pricing_1i  .button_1{
+padding-left:12px;
+padding-right:12px;
+font-size:13px; 
+ }
+ }
+
+@media (min-width:992px) and (max-width:1200px) {
+.pricing_1i  .button_1{
+padding-left:20px;
+padding-right:20px;
+font-size:14px; 
+ }
+ }
+@media (min-width:1201px) and (max-width:1310px) {
+
+ }
+
+
+
